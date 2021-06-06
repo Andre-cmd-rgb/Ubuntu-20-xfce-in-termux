@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install wget -y 
+pkg install proot -y
 folder=ubuntu20-fs
 cur=`pwd`
 dlink="https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/APT"
