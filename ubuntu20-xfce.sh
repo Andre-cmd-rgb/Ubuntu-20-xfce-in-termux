@@ -285,4 +285,7 @@ rm -rf /root/xfce19.sh
 rm -rf ~/.bash_profile" > $folder/root/.bash_profile 
 chmod +x audio-setup.sh
 ./audio-setup.sh
+sudo add-apt-repository ppa:papirus/papirus
+sudo apt-get update
+sudo apt-get install papirus-icon-theme
 bash $bin
