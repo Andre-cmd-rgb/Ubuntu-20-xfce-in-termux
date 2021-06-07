@@ -15,5 +15,6 @@ This script will install Ubuntu 20 xfce
 - chmod +x ubuntu20-xfce.sh
 - ./ubuntu20-xfce.sh
 - now connect with the vnc viewer on port localhost:1
-- then clone the Big-sur-theme-for-termux-xfce repository from the terminal and launch the install script
+- open terminel and type git clone https://github.com/Andre-cmd-rgb/Big-sur-theme-for-termux-xfce.git
+- then chmod +x  installbigsurtheme.sh and ./installbigsurtheme.sh
 - now you have to go into settings and you can customize your experience.
