@@ -5,5 +5,6 @@ apt update
 apt upgrade
 apt install libreoffice
 apt install gimp
+apt-get install -y xarchiver
 apt update
 apt upgrade
