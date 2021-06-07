@@ -1,6 +1,6 @@
 # Ubuntu-20-in-termux
 This script will install Ubuntu 20 xfce
-# Requirments 
+# Requirments:
 - know some basics and how to change themes, icons, backgrounds
 # Coming soon:
 - Mac Os theme update
