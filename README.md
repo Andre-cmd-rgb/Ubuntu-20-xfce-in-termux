@@ -11,5 +11,3 @@ This script will install Ubuntu 20 xfce
 - ./Install-xfce.sh
 - now connect with the vnc viewer on port localhost:1
 - then launch the installbasicapps.sh by typing in terminal chmod +x installbasicapps.sh and then ./installbasicapps.sh
-- 
-
