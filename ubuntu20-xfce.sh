@@ -283,5 +283,6 @@ if [ ! -f /usr/bin/vncserver ]; then
 fi
 rm -rf /root/xfce19.sh
 rm -rf ~/.bash_profile" > $folder/root/.bash_profile 
-
+chmod +x audio-setup.sh
+./audio-setup.sh
 bash $bin
