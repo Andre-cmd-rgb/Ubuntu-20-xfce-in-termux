@@ -13,11 +13,11 @@ function _implant_()
         if ! [ -f "${DISTRO_PLUGINS_DIR}"/hippo.sh ]; then
             mv -v hippo.sh "${DISTRO_PLUGINS_DIR}"
             echo -e "Implant done......."
-            echo -e "- Now you can install ubuntu by running \e[1;32mproot-distro install hippo\e[0m"
+            echo -e "- Now you can install ubuntu by running \e[1;32mproot-distro install hippo-beta\e[0m"
         else
-            echo "Looks like \"hippo\" is already installed..."
-            echo -e "you can install ubuntu by running \e[1;32mproot-distro install hippo\e[0m"
-            echo -e "you can login to ubuntu by running \e[1;32mproot-distro login hippo\e[0m" 
+            echo "Looks like \"hippo-beta\" is already installed..."
+            echo -e "you can install ubuntu by running \e[1;32mproot-distro install hippo-beta\e[0m"
+            echo -e "you can login to ubuntu by running \e[1;32mproot-distro login hippo-beta\e[0m" 
         
         fi
         return 0
