@@ -2,7 +2,7 @@
 ## Plug-in for installing Hippo.
 ##
 
-DISTRO_NAME="hippo-beta"
+DISTRO_NAME="hippo"
 DISTRO_COMMENT="[Testing] A ubuntu 21.04 port with some tweaks"
 
 # You can override a CPU architecture to let distribution
