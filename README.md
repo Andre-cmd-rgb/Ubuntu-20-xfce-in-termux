@@ -3,7 +3,7 @@ This script will install Ubuntu 20 xfce
 # Requirments:
 - know some basics and how to change themes, icons, backgrounds
 # Coming soon:
-- Mac Os theme update
+- .update
 - new scripts
 # How to install It:
 - apt update
@@ -15,6 +15,4 @@ This script will install Ubuntu 20 xfce
 - chmod +x ubuntu20-xfce.sh
 - ./ubuntu20-xfce.sh
 - now connect with the vnc viewer on port localhost:1
-- open terminel and type git clone https://github.com/Andre-cmd-rgb/Big-sur-theme-for-termux-xfce.git
-- then chmod +x Themes.sh and ./Themes.sh
-- now you have to go into settings and you can customize your experience.
+- enjoy
